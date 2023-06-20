@@ -1,0 +1,26 @@
+{
+    "name": "readme-generator",
+    "version": "1.0.0",
+    "description": "Follow command line prompts to generate a README.md file.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yago-pixel/Professional-README-Generator.git"
+    },
+    "keywords": [
+      "readme",
+      "generator"
+    ],
+    "author": "Yago Lira",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/yago-pixel/Professional-README-Generator/issues"
+    },
+    "homepage": "https://github.com/yago-pixel/Professional-README-Generator#readme",
+    "dependencies": {
+      "inquirer": "^8.1.0"
+    }
+  }
