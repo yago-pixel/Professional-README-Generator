@@ -19,7 +19,7 @@
 
 ## Usage:
 #### To generate a README.md file.
-![alt text](assets/images/screenshot.PNG)
+![alt text](screenshot.PNG)
 
 
 ## Contributors:
