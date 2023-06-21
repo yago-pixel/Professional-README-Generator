@@ -23,7 +23,7 @@
 
 
 ## Contributors:
-#### Fraser Thompson
+#### Yago Lira
 
 ## License:
 #### More on the MIT license:
