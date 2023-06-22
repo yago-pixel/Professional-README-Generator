@@ -21,7 +21,7 @@
   
   ## Usage:
   #### to generate a README.md file.
-  ![alt text](images/screenshot.PNG)
+  ![alt text](/images/screenshot.PNG)
   
   ## Contributors:
   #### Yago Lira
