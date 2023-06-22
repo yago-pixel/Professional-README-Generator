@@ -5,14 +5,13 @@
     Generate a README.md file about your project by answering commandline prompts.
   
     ---
-  
     ## Table of Contents:
-    ### [Installation](#installation)
-    ### [Usage](#usage)
-    ### [Contributors](#contributors)
-    ### [License](#license)
-    ### [Questions](#questions)
-  
+  * ### [Installation](#installation)
+  * ### [Usage](#usage)
+  * ### [Contributors](#contributors)
+  * ### [License](#license)
+  * ### [Questions](#questions)
+
   ---
   
     
