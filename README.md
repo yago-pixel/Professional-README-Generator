@@ -36,24 +36,4 @@
   * For any question or comments about this project, please email me at: yagolira02@hotmail.com
   * To see more of my projects, follow me on Github at: [yago-pixel](http://github.com/yago-pixel)
   
-=======
-## Installation:
-#### Clone the Repository -> In the root folder, enter 'node index.js' in the command line and answer prompts -> README.md is generated.
 
-## Usage:
-#### To generate a README.md file.
-![alt text](screenshot.PNG)
-
-
-## Contributors:
-#### Yago Lira
-
-## License:
-#### More on the MIT license:
-
----
-
-## Questions:
-* For any question or comments about this project, please email me at: yagolira02@hotmail.com
-* To see more of my projects, follow me on Github at: [yago-pixel] http://github.com/yago-pixel
->>>>>>> e5afbcc212112a150afe24facf41f2e04ac3ad46
