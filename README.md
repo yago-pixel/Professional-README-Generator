@@ -7,11 +7,11 @@
     ---
   
     ## Table of Contents:
-    * ### [Installation](#installation)
-    * ### [Usage](#usage)
-    * ### [Contributors](#contributors)
-    * ### [License](#license)
-    * ### [Questions](#questions)
+    ### [Installation](#installation)
+    ### [Usage](#usage)
+    ### [Contributors](#contributors)
+    ### [License](#license)
+    ### [Questions](#questions)
   
   ---
   
