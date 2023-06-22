@@ -1,7 +1,6 @@
 # Readme Generator
     ![badge](https://img.shields.io/badge/license-MIT-informational)
   
-<<<<<<< HEAD
     ## Description:
     Generate a README.md file about your project by answering commandline prompts.
   
